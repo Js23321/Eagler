@@ -1,0 +1,28 @@
+{
+ "pack": {
+  "min_format": [
+   88,
+   0
+  ],
+  "max_format": [
+   88,
+   0
+  ],
+  "description": [
+   {
+    "text": "OneClient ",
+    "color": "#9cd0ff",
+    "bold": true
+   },
+   {
+    "text": "X-Ray",
+    "color": "#ffffff",
+    "bold": true
+   },
+   {
+    "text": "\nHides the ground, ores glow through it",
+    "color": "gray"
+   }
+  ]
+ }
+}

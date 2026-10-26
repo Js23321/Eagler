@@ -1,0 +1,13 @@
+[
+  {
+    "file": "Vanilla+ 1.21.11.zip"
+  },
+  {
+    "file": "Moss Panorama.zip"
+  },
+  {
+    "dir": "packs-src/OneClient X-Ray",
+    "name": "OneClient X-Ray",
+    "enabled": false
+  }
+]

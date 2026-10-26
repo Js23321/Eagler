@@ -1,0 +1,9 @@
+{
+  "id": "litematica",
+  "name": "Litematica",
+  "version": "1.0.0",
+  "author": "OneClient port of the mod by masa",
+  "description": "Schematic overlay: load .litematic, .schem and .nbt files and build from a see-through copy of the structure in your world.",
+  "main": "main.js",
+  "api": 1
+}

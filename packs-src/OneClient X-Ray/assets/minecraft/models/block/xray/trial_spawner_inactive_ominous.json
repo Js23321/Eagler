@@ -1,0 +1,157 @@
+{
+ "ambientocclusion": false,
+ "textures": {
+  "bottom": "minecraft:block/trial_spawner_bottom",
+  "side": "minecraft:block/trial_spawner_side_inactive_ominous",
+  "top": "minecraft:block/trial_spawner_top_inactive_ominous",
+  "particle": "#side",
+  "down": "#bottom",
+  "up": "#top",
+  "north": "#side",
+  "east": "#side",
+  "south": "#side",
+  "west": "#side"
+ },
+ "elements": [
+  {
+   "from": [
+    0,
+    0,
+    0
+   ],
+   "to": [
+    16,
+    16,
+    16
+   ],
+   "faces": {
+    "north": {
+     "uv": [
+      0,
+      0,
+      16,
+      16
+     ],
+     "texture": "#side"
+    },
+    "east": {
+     "uv": [
+      0,
+      0,
+      16,
+      16
+     ],
+     "texture": "#side"
+    },
+    "south": {
+     "uv": [
+      0,
+      0,
+      16,
+      16
+     ],
+     "texture": "#side"
+    },
+    "west": {
+     "uv": [
+      0,
+      0,
+      16,
+      16
+     ],
+     "texture": "#side"
+    },
+    "up": {
+     "uv": [
+      0,
+      0,
+      16,
+      16
+     ],
+     "texture": "#top"
+    },
+    "down": {
+     "uv": [
+      0,
+      0,
+      16,
+      16
+     ],
+     "texture": "#bottom"
+    }
+   },
+   "shade": false,
+   "light_emission": 15
+  },
+  {
+   "from": [
+    15.998,
+    0.002,
+    0.002
+   ],
+   "to": [
+    0.002,
+    15.998,
+    15.998
+   ],
+   "faces": {
+    "north": {
+     "uv": [
+      16,
+      0,
+      0,
+      16
+     ],
+     "texture": "#side"
+    },
+    "east": {
+     "uv": [
+      16,
+      0,
+      0,
+      16
+     ],
+     "texture": "#side"
+    },
+    "south": {
+     "uv": [
+      16,
+      0,
+      0,
+      16
+     ],
+     "texture": "#side"
+    },
+    "west": {
+     "uv": [
+      16,
+      0,
+      0,
+      16
+     ],
+     "texture": "#side"
+    },
+    "up": {
+     "uv": [
+      16,
+      0,
+      0,
+      16
+     ],
+     "texture": "#top"
+    },
+    "down": {
+     "uv": [
+      16,
+      0,
+      0,
+      16
+     ],
+     "texture": "#bottom"
+    }
+   },
+   "shade": false,
+   "light_emission": 15
+  }
+ ]
+}

@@ -1,0 +1,49 @@
+{
+ "ambientocclusion": false,
+ "textures": {
+  "all": "minecraft:block/nether_gold_ore",
+  "particle": "#all",
+  "down": "#all",
+  "up": "#all",
+  "north": "#all",
+  "east": "#all",
+  "south": "#all",
+  "west": "#all"
+ },
+ "elements": [
+  {
+   "from": [
+    0,
+    0,
+    0
+   ],
+   "to": [
+    16,
+    16,
+    16
+   ],
+   "faces": {
+    "down": {
+     "texture": "#down"
+    },
+    "up": {
+     "texture": "#up"
+    },
+    "north": {
+     "texture": "#north"
+    },
+    "south": {
+     "texture": "#south"
+    },
+    "west": {
+     "texture": "#west"
+    },
+    "east": {
+     "texture": "#east"
+    }
+   },
+   "shade": false,
+   "light_emission": 15
+  }
+ ]
+}

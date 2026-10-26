@@ -1,0 +1,7 @@
+# build inputs and scratch files: not needed to run the website
+eaglercraft-26.2-zeus-skins.html
+tuff.html
+OneClient-test.html
+*.zip
+_analysis/
+_archive/

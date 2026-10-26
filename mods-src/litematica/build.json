@@ -1,0 +1,12 @@
+{
+  "bundles": {
+    "main.js": ["src/*.js"],
+    "worker.js": ["worker/*.js"]
+  },
+  "epk": [
+    "assets/minecraft/blockstates/*.json",
+    "assets/minecraft/models/block/**",
+    "assets/minecraft/textures/block/**",
+    "assets/minecraft/textures/colormap/*.png"
+  ]
+}

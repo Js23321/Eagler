@@ -1,0 +1,50 @@
+{
+ "ambientocclusion": false,
+ "textures": {
+  "end": "minecraft:block/ancient_debris_top",
+  "side": "minecraft:block/ancient_debris_side",
+  "particle": "#side",
+  "down": "#end",
+  "up": "#end",
+  "north": "#side",
+  "east": "#side",
+  "south": "#side",
+  "west": "#side"
+ },
+ "elements": [
+  {
+   "from": [
+    0,
+    0,
+    0
+   ],
+   "to": [
+    16,
+    16,
+    16
+   ],
+   "faces": {
+    "down": {
+     "texture": "#down"
+    },
+    "up": {
+     "texture": "#up"
+    },
+    "north": {
+     "texture": "#north"
+    },
+    "south": {
+     "texture": "#south"
+    },
+    "west": {
+     "texture": "#west"
+    },
+    "east": {
+     "texture": "#east"
+    }
+   },
+   "shade": false,
+   "light_emission": 15
+  }
+ ]
+}
